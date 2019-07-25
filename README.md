@@ -1,6 +1,6 @@
 ![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
 
-# JS | Clue - Mixing objects and arrays
+# JS | Clue - Mixing objects and arrays.
 
 Do you remember de classic detective game?
 
