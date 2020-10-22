@@ -183,7 +183,7 @@ var mrGreen = {
   function randomSelector(arr){
       return arr[Math.floor(Math.random() * arr.length)];
   }
-  console.log(randomSelector(["abc"]));
+  
 
   function pickMistery(){
     var envelope = [];
